@@ -1,0 +1,15 @@
+mkdir seguranca
+cd seguranca
+git init
+nano 19000432.txt
+git add 19000432.txt
+git status
+git commit -m "Primeiro commit"
+git remote add origin https://github.com/Gianhenrique/seguranca.git
+git push -u origin master
+git add 19000432.txt
+git status
+git commit -m "Inserção dos comandos"
+
+
+
