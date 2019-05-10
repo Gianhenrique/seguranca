@@ -10,6 +10,7 @@ git push -u origin master
 git add 19000432.txt
 git status
 git commit -m "Inserção dos comandos"
+git push -u origin master
 
 
 
